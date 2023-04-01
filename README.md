@@ -8,7 +8,7 @@ This project is the my second project in the Artificial intelligence nano degree
 * `predict.py` : This contains functions and codes needed to load the saved model and predict the category the flower belongs to using tge loaded model.
 * `workspace_util` : This is a contains utility functions for `train.py` and `predict.py`
 
-## OBJECTIVE
+## Objective
 The objective of this project is to build a flower image classifier that can predict the category of a flower that is in an image when the image of a flower is passed to it.
 
 The project is divided into two sections;
