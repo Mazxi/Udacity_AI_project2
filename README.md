@@ -2,7 +2,7 @@
 
 This project is the my second project in the Artificial intelligence nano degree program and is a prerequiste to graduate.
 
-## main files in this repository are;
+## Main files in this repository are;
 * `flower_classifier.ipynb`: Jupyter notebook with code for developing the flower image classifier
 * `train.py` : This contains the functions and codes needed to train and save the model
 * `predict.py` : This contains functions and codes needed to load the saved model and predict the category the flower belongs to using tge loaded model.
