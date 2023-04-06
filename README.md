@@ -24,6 +24,12 @@ d. Pre-precessing the test set to be predicted
 
 e. Predicting the actual category the flower in the image falls into
 
+The second section was divided into two tasks
+
+a. Training the model and saving in `train.py`
+
+b. Loading the saved model and predicting in `predict.py`
+
 ## python libraries
 The followings libraries are the libraries used for the project.
 
