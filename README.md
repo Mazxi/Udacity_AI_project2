@@ -44,4 +44,3 @@ The followings libraries are the libraries used for the project.
 ## Author
 Maxwell Chinemebudu Chimela
 * cchimelamaxwell@gmail.com
-* [LinkedIn](www.linkedin/in/maxwell-the-analyst)
